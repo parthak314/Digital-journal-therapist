@@ -26,7 +26,7 @@ Your personal space for reflection, creativity, and growth with a thoughtful ass
 
 Before you dive in, make sure you have:
 - Node.js (version 14 or higher)
-- npm or yarn (your trusty package managers)
+- npm
 - An Azure account with access to AI services (for that extra sprinkle of magic), or a github account
 
 ### 📦 Installation
